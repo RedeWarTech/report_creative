@@ -1,5 +1,5 @@
 # report_creative
-Print's do sistema de report caso acionamento de servições de emergência.
+Sistema de report caso acionamento de servições de emergência.
 Addon para base do Summers creative.
 
 Código gratuito!
