@@ -10,4 +10,4 @@ In-Game: (https://prnt.sc/qhlv7b)
 
 Discord Report: (http://prntscr.com/qhlvn8)
 
-Contatos via discord: @CB. Jean Micheluzzi#3550 ou jean@redewartech.com.br
+Contatos via discord: @CB. Jean Micheluzzi#3550 ou comercial@redewartech.com.br
